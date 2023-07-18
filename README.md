@@ -31,8 +31,8 @@ The model's performance can be evaluated based on various metrics such as precis
 
 
 ## Team Members
-* Unmay Kharabe
-* Saket Koppineedi
+* Unmay Kharabe (BT20ECE088)
+* Saket Koppineedi (BT20ECE114)
 ## References & Links
 
 [MHealth Dataset](http://archive.ics.uci.edu/dataset/319/mhealth+dataset)
