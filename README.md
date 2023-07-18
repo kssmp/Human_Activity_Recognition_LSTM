@@ -18,7 +18,9 @@ The main code file includes the implementation of the deep learning model. It co
 1. `Data Preprocessing`: The code assumes that the input data is in the form of time series sequences with corresponding labels. The data is preprocessed to create balanced datasets, remove outliers, and split into training and testing sets. 
 2. `Model Architecture`: The model architecture is defined using various layers, including Conv1D, LSTM, attention, and Dense layers. These layers are stacked together to capture temporal dependencies in the input sequences.
 3. `Model Compilation`: The model is compiled with the Adam optimizer and sparse categorical cross-entropy loss function. The sparse_categorical_accuracy metric is used to monitor the model's performance during training.
-4. `Model Training and Evaluation`: The model is trained on the training dataset and evaluated on the testing dataset. 
+4. `Model Training and Evaluation`: The model is trained on the training dataset and evaluated on the testing dataset.
+
+   
 ![model](https://github.com/kssmp/Human_Activity_Recognition_LSTM/assets/115448106/a15a98ad-70de-4540-91fb-dad917bfcbac)
 
 ## Results
