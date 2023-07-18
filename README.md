@@ -30,6 +30,9 @@ The model's performance can be evaluated based on various metrics such as precis
 ![Screenshot 2023-07-18 at 7 51 57 PM](https://github.com/kssmp/Human_Activity_Recognition_LSTM/assets/115448106/22f533ca-93c8-4cb6-8f06-743f137b9d72)
 
 
+## Team Members
+* Unmay Kharabe
+* Saket Koppineedi
 ## References & Links
 
 [MHealth Dataset](http://archive.ics.uci.edu/dataset/319/mhealth+dataset)
