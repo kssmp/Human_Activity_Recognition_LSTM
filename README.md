@@ -19,11 +19,14 @@ The main code file includes the implementation of the deep learning model. It co
 2. `Model Architecture`: The model architecture is defined using various layers, including Conv1D, LSTM, attention, and Dense layers. These layers are stacked together to capture temporal dependencies in the input sequences.
 3. `Model Compilation`: The model is compiled with the Adam optimizer and sparse categorical cross-entropy loss function. The sparse_categorical_accuracy metric is used to monitor the model's performance during training.
 4. `Model Training and Evaluation`: The model is trained on the training dataset and evaluated on the testing dataset. 
+![model](https://github.com/kssmp/Human_Activity_Recognition_LSTM/assets/115448106/a15a98ad-70de-4540-91fb-dad917bfcbac)
 
 ## Results
 
 The model's performance can be evaluated based on various metrics such as precision, recall & f1 score. 
-![Screenshot 2023-07-18 at 7 28 21 PM](https://github.com/kssmp/Human_Activity_Recognition_LSTM/assets/115448106/f27868c3-3279-4401-ac69-8801592052dc)
+
+![Screenshot 2023-07-18 at 7 51 57 PM](https://github.com/kssmp/Human_Activity_Recognition_LSTM/assets/115448106/22f533ca-93c8-4cb6-8f06-743f137b9d72)
+
 
 ## References & Links
 
